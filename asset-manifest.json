@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-conference-schedule/static/css/main.c62fbb22.css",
-    "main.js": "/react-conference-schedule/static/js/main.a8cc39cd.js",
+    "main.js": "/react-conference-schedule/static/js/main.62c1b116.js",
     "index.html": "/react-conference-schedule/index.html",
     "main.c62fbb22.css.map": "/react-conference-schedule/static/css/main.c62fbb22.css.map",
-    "main.a8cc39cd.js.map": "/react-conference-schedule/static/js/main.a8cc39cd.js.map"
+    "main.62c1b116.js.map": "/react-conference-schedule/static/js/main.62c1b116.js.map"
   },
   "entrypoints": [
     "static/css/main.c62fbb22.css",
-    "static/js/main.a8cc39cd.js"
+    "static/js/main.62c1b116.js"
   ]
 }
