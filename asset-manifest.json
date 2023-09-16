@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-conference-schedule/static/css/main.c62fbb22.css",
-    "main.js": "/react-conference-schedule/static/js/main.62c1b116.js",
+    "main.css": "/react-conference-schedule/static/css/main.b8664723.css",
+    "main.js": "/react-conference-schedule/static/js/main.412a39ae.js",
     "index.html": "/react-conference-schedule/index.html",
-    "main.c62fbb22.css.map": "/react-conference-schedule/static/css/main.c62fbb22.css.map",
-    "main.62c1b116.js.map": "/react-conference-schedule/static/js/main.62c1b116.js.map"
+    "main.b8664723.css.map": "/react-conference-schedule/static/css/main.b8664723.css.map",
+    "main.412a39ae.js.map": "/react-conference-schedule/static/js/main.412a39ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.c62fbb22.css",
-    "static/js/main.62c1b116.js"
+    "static/css/main.b8664723.css",
+    "static/js/main.412a39ae.js"
   ]
 }
